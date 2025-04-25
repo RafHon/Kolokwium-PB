@@ -1,0 +1,12 @@
+CREATE PROCEDURE AddStudent
+    @Imie NVARCHAR(100),
+    @Nazwisko NVARCHAR(100),
+    @GrupaID INT = NULL,
+    @NowyStudentID INT OUTPUT
+AS
+BEGIN
+    INSERT INTO Studenci (Imie, Nazwisko, GrupaID)
+    VALUES (@Imie, @Nazwisko, @GrupaID);
+
+    SET @NowyStudentID = SCOPE_IDENTITY();
+END;

@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student RM4-3073 15\\Desktop\\Kolokwium\\Kolokwium-PB\\Kolokwium\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED284491-1ADA-40D0-BDA6-1C79AACF24CF}|BLL_EF\\BLL_EF.csproj|c:\\users\\student rm4-3073 15\\desktop\\kolokwium\\kolokwium-pb\\kolokwium\\bll_ef\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED284491-1ADA-40D0-BDA6-1C79AACF24CF}|BLL_EF\\BLL_EF.csproj|solutionrelative:bll_ef\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA96831C-117A-4AA4-A94F-2477C8B600DB}|BLL\\BLL.csproj|c:\\users\\student rm4-3073 15\\desktop\\kolokwium\\kolokwium-pb\\kolokwium\\bll\\dto\\historiaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA96831C-117A-4AA4-A94F-2477C8B600DB}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\historiaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA96831C-117A-4AA4-A94F-2477C8B600DB}|BLL\\BLL.csproj|c:\\users\\student rm4-3073 15\\desktop\\kolokwium\\kolokwium-pb\\kolokwium\\bll\\interface\\ihitosriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA96831C-117A-4AA4-A94F-2477C8B600DB}|BLL\\BLL.csproj|solutionrelative:bll\\interface\\ihitosriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA96831C-117A-4AA4-A94F-2477C8B600DB}|BLL\\BLL.csproj|c:\\users\\student rm4-3073 15\\desktop\\kolokwium\\kolokwium-pb\\kolokwium\\bll\\dto\\studentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA96831C-117A-4AA4-A94F-2477C8B600DB}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\studentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA96831C-117A-4AA4-A94F-2477C8B600DB}|BLL\\BLL.csproj|c:\\users\\student rm4-3073 15\\desktop\\kolokwium\\kolokwium-pb\\kolokwium\\bll\\dto\\studentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA96831C-117A-4AA4-A94F-2477C8B600DB}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\studentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230D54B6-2ED9-444E-BB59-5D0723697B86}|DAL\\DAL.csproj|c:\\users\\student rm4-3073 15\\desktop\\kolokwium\\kolokwium-pb\\kolokwium\\dal\\model\\historia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230D54B6-2ED9-444E-BB59-5D0723697B86}|DAL\\DAL.csproj|solutionrelative:dal\\model\\historia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75D068CF-AAFD-44A0-8D7D-250D8345D5EE}|WebAPI\\WebAPI.csproj|c:\\users\\student rm4-3073 15\\desktop\\kolokwium\\kolokwium-pb\\kolokwium\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D068CF-AAFD-44A0-8D7D-250D8345D5EE}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED284491-1ADA-40D0-BDA6-1C79AACF24CF}|BLL_EF\\BLL_EF.csproj|c:\\users\\student rm4-3073 15\\desktop\\kolokwium\\kolokwium-pb\\kolokwium\\bll_ef\\service\\historiaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED284491-1ADA-40D0-BDA6-1C79AACF24CF}|BLL_EF\\BLL_EF.csproj|solutionrelative:bll_ef\\service\\historiaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student RM4-3073 15\\AppData\\Local\\Temp\\15\\mmeh10kx..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/KolokwiumPB/True/SqlTable/dbo.Historie.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75D068CF-AAFD-44A0-8D7D-250D8345D5EE}|WebAPI\\WebAPI.csproj|c:\\users\\student rm4-3073 15\\desktop\\kolokwium\\kolokwium-pb\\kolokwium\\webapi\\controllers\\historiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D068CF-AAFD-44A0-8D7D-250D8345D5EE}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\historiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75D068CF-AAFD-44A0-8D7D-250D8345D5EE}|WebAPI\\WebAPI.csproj|c:\\users\\student rm4-3073 15\\desktop\\kolokwium\\kolokwium-pb\\kolokwium\\webapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D068CF-AAFD-44A0-8D7D-250D8345D5EE}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230D54B6-2ED9-444E-BB59-5D0723697B86}|DAL\\DAL.csproj|c:\\users\\student rm4-3073 15\\desktop\\kolokwium\\kolokwium-pb\\kolokwium\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230D54B6-2ED9-444E-BB59-5D0723697B86}|DAL\\DAL.csproj|solutionrelative:dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA96831C-117A-4AA4-A94F-2477C8B600DB}|BLL\\BLL.csproj|c:\\users\\student rm4-3073 15\\desktop\\kolokwium\\kolokwium-pb\\kolokwium\\bll\\interface\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA96831C-117A-4AA4-A94F-2477C8B600DB}|BLL\\BLL.csproj|solutionrelative:bll\\interface\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student RM4-3073 15\\Desktop\\Kolokwium\\Kolokwium-PB\\Kolokwium\\DAL\\Migrations\\20250425165054_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\Migrations\\20250425165054_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230D54B6-2ED9-444E-BB59-5D0723697B86}|DAL\\DAL.csproj|c:\\users\\student rm4-3073 15\\desktop\\kolokwium\\kolokwium-pb\\kolokwium\\dal\\model\\grupa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230D54B6-2ED9-444E-BB59-5D0723697B86}|DAL\\DAL.csproj|solutionrelative:dal\\model\\grupa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230D54B6-2ED9-444E-BB59-5D0723697B86}|DAL\\DAL.csproj|c:\\users\\student rm4-3073 15\\desktop\\kolokwium\\kolokwium-pb\\kolokwium\\dal\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230D54B6-2ED9-444E-BB59-5D0723697B86}|DAL\\DAL.csproj|solutionrelative:dal\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student RM4-3073 15\\AppData\\Local\\Temp\\15\\mmeh10kx..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student RM4-3073 15\\AppData\\Local\\Temp\\15\\mmeh10kx..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IHitosriaService.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 15\\Desktop\\Kolokwium\\Kolokwium-PB\\Kolokwium\\BLL\\Interface\\IHitosriaService.cs",
+              "RelativeDocumentMoniker": "BLL\\Interface\\IHitosriaService.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 15\\Desktop\\Kolokwium\\Kolokwium-PB\\Kolokwium\\BLL\\Interface\\IHitosriaService.cs",
+              "RelativeToolTip": "BLL\\Interface\\IHitosriaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:15:42.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HistoriaResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 15\\Desktop\\Kolokwium\\Kolokwium-PB\\Kolokwium\\BLL\\DTO\\HistoriaResponse.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\HistoriaResponse.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 15\\Desktop\\Kolokwium\\Kolokwium-PB\\Kolokwium\\BLL\\DTO\\HistoriaResponse.cs",
+              "RelativeToolTip": "BLL\\DTO\\HistoriaResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:15:13.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 15\\Desktop\\Kolokwium\\Kolokwium-PB\\Kolokwium\\BLL_EF\\Service\\StudentService.cs",
+              "RelativeDocumentMoniker": "BLL_EF\\Service\\StudentService.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 15\\Desktop\\Kolokwium\\Kolokwium-PB\\Kolokwium\\BLL_EF\\Service\\StudentService.cs",
+              "RelativeToolTip": "BLL_EF\\Service\\StudentService.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwCcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:55:03.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 15\\Desktop\\Kolokwium\\Kolokwium-PB\\Kolokwium\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 15\\Desktop\\Kolokwium\\Kolokwium-PB\\Kolokwium\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:59:53.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Historia.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 15\\Desktop\\Kolokwium\\Kolokwium-PB\\Kolokwium\\DAL\\Model\\Historia.cs",
+              "RelativeDocumentMoniker": "DAL\\Model\\Historia.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 15\\Desktop\\Kolokwium\\Kolokwium-PB\\Kolokwium\\DAL\\Model\\Historia.cs",
+              "RelativeToolTip": "DAL\\Model\\Historia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:46:38.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 15\\Desktop\\Kolokwium\\Kolokwium-PB\\Kolokwium\\BLL\\DTO\\StudentRequestDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\StudentRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 15\\Desktop\\Kolokwium\\Kolokwium-PB\\Kolokwium\\BLL\\DTO\\StudentRequestDTO.cs",
+              "RelativeToolTip": "BLL\\DTO\\StudentRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:56:53.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 15\\Desktop\\Kolokwium\\Kolokwium-PB\\Kolokwium\\BLL\\DTO\\StudentResponseDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\StudentResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 15\\Desktop\\Kolokwium\\Kolokwium-PB\\Kolokwium\\BLL\\DTO\\StudentResponseDTO.cs",
+              "RelativeToolTip": "BLL\\DTO\\StudentResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:57:49.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HistoriaService.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 15\\Desktop\\Kolokwium\\Kolokwium-PB\\Kolokwium\\BLL_EF\\Service\\HistoriaService.cs",
+              "RelativeDocumentMoniker": "BLL_EF\\Service\\HistoriaService.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 15\\Desktop\\Kolokwium\\Kolokwium-PB\\Kolokwium\\BLL_EF\\Service\\HistoriaService.cs",
+              "RelativeToolTip": "BLL_EF\\Service\\HistoriaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:15:59.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 15\\AppData\\Local\\Temp\\15\\mmeh10kx..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\15\\mmeh10kx..sql",
+              "ToolTip": "SQLQuery1.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-25T17:25:40.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dbo.Historie [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/KolokwiumPB/True/SqlTable/dbo.Historie.sql",
+              "ToolTip": "dbo.Historie [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-25T17:18:44.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HistoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 15\\Desktop\\Kolokwium\\Kolokwium-PB\\Kolokwium\\WebAPI\\Controllers\\HistoriaController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\HistoriaController.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 15\\Desktop\\Kolokwium\\Kolokwium-PB\\Kolokwium\\WebAPI\\Controllers\\HistoriaController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\HistoriaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:17:11.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 15\\Desktop\\Kolokwium\\Kolokwium-PB\\Kolokwium\\WebAPI\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 15\\Desktop\\Kolokwium\\Kolokwium-PB\\Kolokwium\\WebAPI\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:02:43.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 15\\Desktop\\Kolokwium\\Kolokwium-PB\\Kolokwium\\BLL\\Interface\\IStudentService.cs",
+              "RelativeDocumentMoniker": "BLL\\Interface\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 15\\Desktop\\Kolokwium\\Kolokwium-PB\\Kolokwium\\BLL\\Interface\\IStudentService.cs",
+              "RelativeToolTip": "BLL\\Interface\\IStudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:53:44.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250425165054_init.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 15\\Desktop\\Kolokwium\\Kolokwium-PB\\Kolokwium\\DAL\\Migrations\\20250425165054_init.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20250425165054_init.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 15\\Desktop\\Kolokwium\\Kolokwium-PB\\Kolokwium\\DAL\\Migrations\\20250425165054_init.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20250425165054_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:50:54.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 15\\Desktop\\Kolokwium\\Kolokwium-PB\\Kolokwium\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 15\\Desktop\\Kolokwium\\Kolokwium-PB\\Kolokwium\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:43:00.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 15\\Desktop\\Kolokwium\\Kolokwium-PB\\Kolokwium\\DAL\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "DAL\\Model\\Student.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 15\\Desktop\\Kolokwium\\Kolokwium-PB\\Kolokwium\\DAL\\Model\\Student.cs",
+              "RelativeToolTip": "DAL\\Model\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:46:39.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Grupa.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 15\\Desktop\\Kolokwium\\Kolokwium-PB\\Kolokwium\\DAL\\Model\\Grupa.cs",
+              "RelativeDocumentMoniker": "DAL\\Model\\Grupa.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 15\\Desktop\\Kolokwium\\Kolokwium-PB\\Kolokwium\\DAL\\Model\\Grupa.cs",
+              "RelativeToolTip": "DAL\\Model\\Grupa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:46:36.244Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
