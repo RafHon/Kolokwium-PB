@@ -82,3 +82,4 @@ C:\Users\Student RM4-3073 15\Desktop\Kolokwium\Kolokwium-PB\Kolokwium\WebAPI\obj
 C:\Users\Student RM4-3073 15\Desktop\Kolokwium\Kolokwium-PB\Kolokwium\WebAPI\obj\Debug\net8.0\WebAPI.pdb
 C:\Users\Student RM4-3073 15\Desktop\Kolokwium\Kolokwium-PB\Kolokwium\WebAPI\obj\Debug\net8.0\WebAPI.genruntimeconfig.cache
 C:\Users\Student RM4-3073 15\Desktop\Kolokwium\Kolokwium-PB\Kolokwium\WebAPI\obj\Debug\net8.0\ref\WebAPI.dll
+C:\Users\Student RM4-3073 15\Desktop\Kolokwium\Kolokwium-PB\Kolokwium\WebAPI\obj\Debug\net8.0\WebAPI.sourcelink.json

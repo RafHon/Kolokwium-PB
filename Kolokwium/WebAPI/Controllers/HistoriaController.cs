@@ -19,7 +19,7 @@ namespace WebAPI.Controllers
         public async Task<ActionResult<IEnumerable<HistoriaResponseDTO>>> GetPaged(
             [FromQuery] int pageNumber = 1, [FromQuery] int pageSize = 10)
         {
-            var entries = await _historiaService.GetPagedAsync(pageNumber, pageSize);
+            var entries = await _historiaService.GetPagedFromProcedureAsync(pageNumber, pageSize);
 
             var response = entries.Select(h => new HistoriaResponseDTO
             {

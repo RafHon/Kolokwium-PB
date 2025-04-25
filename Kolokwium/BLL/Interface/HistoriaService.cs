@@ -9,6 +9,6 @@ namespace BLL.Interface
 {
     public interface IHistoriaService
     {
-        Task<IEnumerable<Historia>> GetPagedAsync(int pageNumber, int pageSize);
+        Task<IEnumerable<Historia>> GetPagedFromProcedureAsync(int pageNumber, int pageSize);
     }
 }

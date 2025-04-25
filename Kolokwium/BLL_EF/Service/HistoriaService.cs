@@ -1,5 +1,6 @@
 ﻿using BLL.Interface;
 using DAL;
+using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
 using Model;
 using System;
@@ -19,13 +20,16 @@ namespace BLL_EF.Service
             _context = context;
         }
 
-        public async Task<IEnumerable<Historia>> GetPagedAsync(int pageNumber, int pageSize)
+        public async Task<IEnumerable<Historia>> GetPagedFromProcedureAsync(int pageNumber, int pageSize)
         {
-            return await _context.Historie
-                .OrderByDescending(h => h.Data)
-                .Skip((pageNumber - 1) * pageSize)
-                .Take(pageSize)
+            var pageNumberParam = new SqlParameter("@PageNumber", pageNumber);
+            var pageSizeParam = new SqlParameter("@PageSize", pageSize);
+
+            var result = await _context.Historie
+                .FromSqlRaw("EXEC GetPagedHistoria @PageNumber, @PageSize", pageNumberParam, pageSizeParam)
                 .ToListAsync();
+
+            return result;
         }
     }
 }
